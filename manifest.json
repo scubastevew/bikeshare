@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "app"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.8.6",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.2.4",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "2a7c57f3b31ba1b8b95f4d226bdc5384"
+    },
+    "app.py": {
+      "checksum": "34fd547314532279ce0eeae8ed9f32e9"
+    },
+    "assets/simple.css": {
+      "checksum": "30dc5ae0bfabcc5cf69e64a271e3c8c6"
+    }
+  }
+}
